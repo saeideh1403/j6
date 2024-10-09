@@ -1,0 +1,38 @@
+ #barf{
+    background-color: #f8a4a4;
+ }
+  h1{
+    display: block;
+    background-color: rgb(255, 115, 0);
+  }
+  p{
+    display: block;
+    background-color: rgb(182, 243, 84);
+  }
+    a{
+        display: inline;
+        background-color:yellow;
+    }
+    hr{
+        background-color: rgb(18, 15, 211);
+        height: 4px;
+    }
+ 
+    #product{
+        background-color: rgb(241, 241, 130);
+    }
+    #discountcard{
+        background-color: rgb(129, 245, 245);
+    }
+    #themostspicial{
+        background-color: rgb(38, 119, 190);
+    }
+    #comments{
+        background-color: rgb(219, 150, 103);
+    }
+    #contactus{
+        background-color: alpha($color: #f36565);
+    }
+    #aboutus{
+        background-color: rgb(114, 184, 160);
+    }
